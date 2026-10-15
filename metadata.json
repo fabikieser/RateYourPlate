@@ -1,0 +1,6 @@
+{
+  "name": "RateYourPlate - Digitale Speisekarte & Restaurant-Bewertungen",
+  "description": "RateYourPlate: Digitale Speisekarten-Plattform mit QR-Code Tischzugang, Rabattbelohnung pro Gerichtbewertung, Google Maps Reputation, integrierter Bezahlung und Betreiber-Dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
